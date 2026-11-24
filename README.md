@@ -13,28 +13,6 @@ I am currently developing **Ehdreon**, a reproducible quantitative research plat
 - Algorithmic Trading
 - Reproducible Research
 
-## Main Project
-
-### Ehdreon
-
-**Reproducible quantitative research infrastructure for systematic trading strategies.**
-
-Ehdreon is being built around a disciplined research process:
-
-`Hypothesis → Data → Strategy → Backtest → Validation → Evidence`
-
-Current work includes:
-
-- Reproducible market data snapshots
-- Explicit portfolio accounting
-- Temporal TRAIN / VALIDATION / TEST evaluation
-- Experiment tracking
-- Strategy registries
-- Controlled strategy comparison
-- Quantitative validation infrastructure
-
-[View Ehdreon](https://github.com/enekohd/Ehdreon)
-
 ## Technologies
 
 ### Programming
@@ -68,6 +46,29 @@ Current work includes:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+## Main Project
+
+### Ehdreon
+
+**Reproducible quantitative research infrastructure for systematic trading strategies.**
+
+Ehdreon is being built around a disciplined research process:
+
+`Hypothesis → Data → Strategy → Backtest → Validation → Evidence`
+
+Current work includes:
+
+- Reproducible market data snapshots
+- Explicit portfolio accounting
+- Temporal TRAIN / VALIDATION / TEST evaluation
+- Experiment tracking
+- Strategy registries
+- Controlled strategy comparison
+- Quantitative validation infrastructure
+
+[View Ehdreon](https://github.com/enekohd/Ehdreon)
+
 
 ## Long-Term Direction
 
